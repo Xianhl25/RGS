@@ -14,6 +14,8 @@
 
 ![](figures\Experiment.png)
 
+`figures\Experiment.png` shows the experiment under three wearing conditions:
+
 * (a): NOBWSEXO
 * (b): BWSON
 * (c): BWSEXOON
@@ -21,3 +23,4 @@
 ## Scripts
 
 * `VisualizeEMG`: visualize the sEMG data to error band diagrams.
+
