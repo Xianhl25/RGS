@@ -1,11 +1,13 @@
 # ReducedGravitySimulationSystem
 
+* This research has been submitted to IROS2025.
+
 ## Data
 
 ### Collection Equipment
 
-* Motion Analysis: Motion Capture System
-* Delsys: sEMG
+* Motion Capture System: Motion Analysis, Santa Rosa, CA, USA
+* sEMG: Delsys, Natick, MA, USA
 
 ### Experiment Protocol
 
